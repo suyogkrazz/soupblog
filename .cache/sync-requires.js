@@ -18,9 +18,9 @@ exports.components = {
 exports.json = {
   "layout-index.json": require("/home/vayu-suyog/WorkSpace/blog/soupblog/.cache/json/layout-index.json"),
   "retreat-to-tatopani.json": require("/home/vayu-suyog/WorkSpace/blog/soupblog/.cache/json/retreat-to-tatopani.json"),
-  "about.json": require("/home/vayu-suyog/WorkSpace/blog/soupblog/.cache/json/about.json"),
-  "starters.json": require("/home/vayu-suyog/WorkSpace/blog/soupblog/.cache/json/starters.json"),
   "success.json": require("/home/vayu-suyog/WorkSpace/blog/soupblog/.cache/json/success.json"),
+  "starters.json": require("/home/vayu-suyog/WorkSpace/blog/soupblog/.cache/json/starters.json"),
+  "about.json": require("/home/vayu-suyog/WorkSpace/blog/soupblog/.cache/json/about.json"),
   "dev-404-page.json": require("/home/vayu-suyog/WorkSpace/blog/soupblog/.cache/json/dev-404-page.json"),
   "contact.json": require("/home/vayu-suyog/WorkSpace/blog/soupblog/.cache/json/contact.json"),
   "index.json": require("/home/vayu-suyog/WorkSpace/blog/soupblog/.cache/json/index.json"),

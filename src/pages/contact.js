@@ -17,10 +17,9 @@ const Contact = () => {
       <Article>
         <PageHeader title="Contact" />
         <Content>
-          Feel free to contact me by email: <Obfuscate email="suyogkrazz@gmail.com" /> or use the
-          form below.
+          Feel free to contact me by email:{" "}
+          <Obfuscate email="sworupkc0@gmail.com" />
         </Content>
-        <Form />
       </Article>
     </Main>
   );

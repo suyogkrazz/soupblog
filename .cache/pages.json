@@ -10,8 +10,8 @@
         "componentChunkName": "component---src-templates-page-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "about.json",
-        "path": "/about/"
+        "jsonName": "success.json",
+        "path": "/success/"
     },
     {
         "componentChunkName": "component---src-templates-page-template-js",
@@ -24,8 +24,8 @@
         "componentChunkName": "component---src-templates-page-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "success.json",
-        "path": "/success/"
+        "jsonName": "about.json",
+        "path": "/about/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",

@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7eb6652de41a0da6e78bad49b8401a7c",
+        "contentDigest": "0246c8b1ed3304ebbe133ca5b63f994a",
         "owner": "internal-data-bridge"
       }
     },
@@ -1371,7 +1371,7 @@
       "version": "1.0.15",
       "pluginOptions": {
         "plugins": [],
-        "name": "PersonalBlog - Suyog K.C",
+        "name": "PersonalBlog - Sworup K.C",
         "short_name": "PersonalBlog",
         "start_url": "/",
         "display": "standalone",
@@ -1467,7 +1467,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f6d94aa9df11d419675587738292a94b",
+        "contentDigest": "d02331ea276e5147c2a0e9047a77706e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -2104,9 +2104,9 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Krazz Blog",
+        "title": "Soup Blog",
         "description": "PersonalBlog.",
-        "siteUrl": "https://suyogkc.com.np",
+        "siteUrl": "https://sworupkc.com.np",
         "pathPrefix": "",
         "algolia": {
           "appId": "...",
@@ -2121,12 +2121,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-28T10:48:43.335Z",
+      "buildTime": "2018-08-28T11:23:22.169Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5d1841396a9670e56c80aab02b3ec02d",
+        "contentDigest": "5d04fc7549de60dc67724c2761133cb4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2495,7 +2495,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5a6413f7a8f2bce4de3f6af8414a7bc4",
+        "contentDigest": "b4e89ff877055d9f4c7c86ab27e76dbc",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2505,10 +2505,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:41:34.377Z",
-      "changeTime": "2018-08-28T10:40:11.580Z",
-      "birthTime": "2018-08-28T10:40:11.580Z",
+      "modifiedTime": "2018-08-28T11:16:20.925Z",
+      "accessTime": "2018-08-28T11:16:20.929Z",
+      "changeTime": "2018-08-28T11:16:20.925Z",
+      "birthTime": "2018-08-28T11:16:20.925Z",
       "root": "/",
       "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages",
       "base": "2--starters",
@@ -2524,14 +2524,14 @@
       "blksize": 4096,
       "ino": 1671816,
       "blocks": 8,
-      "atimeMs": 1535452894377.2422,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811580.307,
-      "birthtimeMs": 1535452811580.307,
-      "atime": "2018-08-28T10:41:34.377Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.580Z",
-      "birthtime": "2018-08-28T10:40:11.580Z"
+      "atimeMs": 1535454980929.3855,
+      "mtimeMs": 1535454980925.3855,
+      "ctimeMs": 1535454980925.3855,
+      "birthtimeMs": 1535454980925.3855,
+      "atime": "2018-08-28T11:16:20.929Z",
+      "mtime": "2018-08-28T11:16:20.925Z",
+      "ctime": "2018-08-28T11:16:20.925Z",
+      "birthtime": "2018-08-28T11:16:20.925Z"
     },
     "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success absPath of file": {
       "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success absPath of file",
@@ -2583,7 +2583,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e3ffe38198dda610657721b54b616df1",
+        "contentDigest": "0ad4fdbd34457925b9339623abf947b1",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2592,12 +2592,12 @@
       "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md",
       "relativePath": "1--about/index.md",
       "extension": "md",
-      "size": 116,
-      "prettySize": "116 B",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:40:11.576Z",
-      "changeTime": "2018-08-28T10:40:11.576Z",
-      "birthTime": "2018-08-28T10:40:11.576Z",
+      "size": 88,
+      "prettySize": "88 B",
+      "modifiedTime": "2018-08-28T11:16:44.145Z",
+      "accessTime": "2018-08-28T11:16:44.141Z",
+      "changeTime": "2018-08-28T11:16:44.145Z",
+      "birthTime": "2018-08-28T11:16:44.145Z",
       "root": "/",
       "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about",
       "base": "index.md",
@@ -2613,14 +2613,14 @@
       "blksize": 4096,
       "ino": 1582641,
       "blocks": 8,
-      "atimeMs": 1535452811576.306,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811576.307,
-      "birthtimeMs": 1535452811576.307,
-      "atime": "2018-08-28T10:40:11.576Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.576Z",
-      "birthtime": "2018-08-28T10:40:11.576Z"
+      "atimeMs": 1535455004141.4465,
+      "mtimeMs": 1535455004145.4465,
+      "ctimeMs": 1535455004145.4465,
+      "birthtimeMs": 1535455004145.4465,
+      "atime": "2018-08-28T11:16:44.141Z",
+      "mtime": "2018-08-28T11:16:44.145Z",
+      "ctime": "2018-08-28T11:16:44.145Z",
+      "birthtime": "2018-08-28T11:16:44.145Z"
     },
     "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file": {
       "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file",
@@ -2629,7 +2629,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "33243e4c37bc86a5195ee2450d88d965",
+        "contentDigest": "b0cd07777daccb54d35048dbc85bdc4f",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2638,12 +2638,12 @@
       "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md",
       "relativePath": "2--starters/index.md",
       "extension": "md",
-      "size": 650,
-      "prettySize": "650 B",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:40:11.580Z",
-      "changeTime": "2018-08-28T10:40:11.580Z",
-      "birthTime": "2018-08-28T10:40:11.580Z",
+      "size": 44,
+      "prettySize": "44 B",
+      "modifiedTime": "2018-08-28T11:16:07.425Z",
+      "accessTime": "2018-08-28T10:48:45.150Z",
+      "changeTime": "2018-08-28T11:16:07.425Z",
+      "birthTime": "2018-08-28T11:16:07.425Z",
       "root": "/",
       "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters",
       "base": "index.md",
@@ -2659,14 +2659,14 @@
       "blksize": 4096,
       "ino": 1582644,
       "blocks": 8,
-      "atimeMs": 1535452811580.307,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811580.307,
-      "birthtimeMs": 1535452811580.307,
-      "atime": "2018-08-28T10:40:11.580Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.580Z",
-      "birthtime": "2018-08-28T10:40:11.580Z"
+      "atimeMs": 1535453325149.6917,
+      "mtimeMs": 1535454967425.3503,
+      "ctimeMs": 1535454967425.3503,
+      "birthtimeMs": 1535454967425.3503,
+      "atime": "2018-08-28T10:48:45.150Z",
+      "mtime": "2018-08-28T11:16:07.425Z",
+      "ctime": "2018-08-28T11:16:07.425Z",
+      "birthtime": "2018-08-28T11:16:07.425Z"
     },
     "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file": {
       "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file",
@@ -2714,171 +2714,6 @@
       "ctime": "2018-08-28T10:40:11.584Z",
       "birthtime": "2018-08-28T10:40:11.584Z"
     },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file",
-      "children": [
-        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "b503c22609fe4756f2162a602a9bc73a",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg",
-      "relativePath": "2--starters/gatsby-styled-blog-starter.jpg",
-      "extension": "jpg",
-      "size": 127689,
-      "prettySize": "128 kB",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:40:11.580Z",
-      "changeTime": "2018-08-28T10:40:11.580Z",
-      "birthTime": "2018-08-28T10:40:11.580Z",
-      "root": "/",
-      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters",
-      "base": "gatsby-styled-blog-starter.jpg",
-      "ext": ".jpg",
-      "name": "gatsby-styled-blog-starter",
-      "relativeDirectory": "2--starters",
-      "dev": 2054,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 1582643,
-      "blocks": 256,
-      "atimeMs": 1535452811580.307,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811580.307,
-      "birthtimeMs": 1535452811580.307,
-      "atime": "2018-08-28T10:40:11.580Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.580Z",
-      "birthtime": "2018-08-28T10:40:11.580Z"
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png absPath of file": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png absPath of file",
-      "children": [
-        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "089c1d272e5cae578ce801a29fab581a",
-        "mediaType": "image/png",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png",
-      "relativePath": "2--starters/user-experience-notes.png",
-      "extension": "png",
-      "size": 161686,
-      "prettySize": "162 kB",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:40:11.580Z",
-      "changeTime": "2018-08-28T10:40:11.580Z",
-      "birthTime": "2018-08-28T10:40:11.580Z",
-      "root": "/",
-      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters",
-      "base": "user-experience-notes.png",
-      "ext": ".png",
-      "name": "user-experience-notes",
-      "relativeDirectory": "2--starters",
-      "dev": 2054,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 1582645,
-      "blocks": 320,
-      "atimeMs": 1535452811580.307,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811580.307,
-      "birthtimeMs": 1535452811580.307,
-      "atime": "2018-08-28T10:40:11.580Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.580Z",
-      "birthtime": "2018-08-28T10:40:11.580Z"
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file >> ImageSharp": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file",
-      "internal": {
-        "contentDigest": "b503c22609fe4756f2162a602a9bc73a",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png absPath of file >> ImageSharp": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png absPath of file",
-      "internal": {
-        "contentDigest": "089c1d272e5cae578ce801a29fab581a",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: About\n---\n\nThis is my Personal **Blog**\n\n## About me\n\nMy name is **Suyog**. I am a full stack developer.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "0fa18963895100a4da5c4e27c57640b2",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "About",
-        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file",
-        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md",
-      "fields": {
-        "slug": "/about/",
-        "prefix": "1"
-      }
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: My Works\nmenuTitle: My Works\n---\n\n### [ShiftCare](https://shiftcare.com/)\n\nShiftCare software makes it a breeze to manage rosters, notify staff, run timesheets and manage smart attendance. Made with love in react native\n[Android](https://play.google.com/store/apps/details?id=com.tecfoundary.shiftcare&hl=en)\n[IOS](https://itunes.apple.com/au/app/shiftcare/id1252971579?mt=8)\n\n### [Conx](https://www.conxjobs.com/)\n\nAustralia’s fastest growing construction network\n\n### [Homnia](https://homnia.fi/search?location=Salo,%20Finland&placeID=ChIJEZi2yKxHjEYRriHsfO14Ce8&leashType=Buy&orderBy=published_at&page=1)\n\nFind real estate in Finland\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "542ac2d3c88d82bc67133509e602f6fd",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "My Works",
-        "menuTitle": "My Works",
-        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file",
-        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md",
-      "fields": {
-        "slug": "/starters/",
-        "prefix": "2"
-      }
-    },
     "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -2903,62 +2738,6 @@
       "fields": {
         "slug": "/success/",
         "prefix": ""
-      }
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file",
-      "children": [
-        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "3494b63cc6347858cbda9823e24ee1aa",
-        "mediaType": "image/png",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png",
-      "relativePath": "2--starters/gatsby-starter-simple-landing.png",
-      "extension": "png",
-      "size": 329808,
-      "prettySize": "330 kB",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:40:11.580Z",
-      "changeTime": "2018-08-28T10:40:11.580Z",
-      "birthTime": "2018-08-28T10:40:11.580Z",
-      "root": "/",
-      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters",
-      "base": "gatsby-starter-simple-landing.png",
-      "ext": ".png",
-      "name": "gatsby-starter-simple-landing",
-      "relativeDirectory": "2--starters",
-      "dev": 2054,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 1582642,
-      "blocks": 648,
-      "atimeMs": 1535452811580.307,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811580.307,
-      "birthtimeMs": 1535452811580.307,
-      "atime": "2018-08-28T10:40:11.580Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.580Z",
-      "birthtime": "2018-08-28T10:40:11.580Z"
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file >> ImageSharp": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file",
-      "internal": {
-        "contentDigest": "3494b63cc6347858cbda9823e24ee1aa",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
       }
     },
     "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/ absPath of file": {
@@ -3011,7 +2790,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "da39dcb5e8a174891ecf4926de2b12c3",
+        "contentDigest": "ce0e2c5798529f714d1cc56bf038d595",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -3020,12 +2799,12 @@
       "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md",
       "relativePath": "author.md",
       "extension": "md",
-      "size": 196,
-      "prettySize": "196 B",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:40:11.584Z",
-      "changeTime": "2018-08-28T10:40:11.584Z",
-      "birthTime": "2018-08-28T10:40:11.584Z",
+      "size": 197,
+      "prettySize": "197 B",
+      "modifiedTime": "2018-08-28T11:14:30.945Z",
+      "accessTime": "2018-08-28T10:48:45.170Z",
+      "changeTime": "2018-08-28T11:14:30.945Z",
+      "birthTime": "2018-08-28T11:14:30.945Z",
       "root": "/",
       "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts",
       "base": "author.md",
@@ -3041,14 +2820,14 @@
       "blksize": 4096,
       "ino": 1582647,
       "blocks": 8,
-      "atimeMs": 1535452811584.307,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811584.3071,
-      "birthtimeMs": 1535452811584.3071,
-      "atime": "2018-08-28T10:40:11.584Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.584Z",
-      "birthtime": "2018-08-28T10:40:11.584Z"
+      "atimeMs": 1535453325169.6914,
+      "mtimeMs": 1535454870945.1082,
+      "ctimeMs": 1535454870945.1082,
+      "birthtimeMs": 1535454870945.1082,
+      "atime": "2018-08-28T10:48:45.170Z",
+      "mtime": "2018-08-28T11:14:30.945Z",
+      "ctime": "2018-08-28T11:14:30.945Z",
+      "birthtime": "2018-08-28T11:14:30.945Z"
     },
     "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file": {
       "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file",
@@ -3142,32 +2921,6 @@
       "ctime": "2018-08-28T10:40:11.584Z",
       "birthtime": "2018-08-28T10:40:11.584Z"
     },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: author\n---\n\n**Mr. Suyog** is a experienced fullstack developer with a strong appreciation for good UX and love to face challenges specially offered from new technology and environment.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "6fe6364a26f789dbc098d7b2895ad339",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "author",
-        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file",
-        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md",
-      "fields": {
-        "slug": "/author/",
-        "prefix": ""
-      }
-    },
     "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file >>> MarkdownRemark": {
       "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -3220,6 +2973,85 @@
         "prefix": ""
       }
     },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: author\n---\n\n**Mr. Sworup** is a experienced fullstack developer with a strong appreciation for good UX and love to face challenges specially offered from new technology and environment.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "8f6f0bfd956d91dcb5a7f56b2e259891",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "author",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md",
+      "fields": {
+        "slug": "/author/",
+        "prefix": ""
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: My Works\nmenuTitle: My Works\n---\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "b79c4b83aa7c613c2d41c0c67c94509f",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "My Works",
+        "menuTitle": "My Works",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md",
+      "fields": {
+        "slug": "/starters/",
+        "prefix": "2"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: About\n---\n\nThis is my Personal **Blog**\n\n## About me\n\nMy name is **Sworup**.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "9b05547efcdd7ff9495cf157aded25d7",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md",
+      "fields": {
+        "slug": "/about/",
+        "prefix": "1"
+      }
+    },
     "SitePage /retreat-to-tatopani/": {
       "layout": "index",
       "jsonName": "retreat-to-tatopani.json",
@@ -3238,51 +3070,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "03e8823160eec3c5159e3c1419a0e149",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about/": {
-      "layout": "index",
-      "jsonName": "about.json",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about/",
-      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
-      "componentChunkName": "component---src-templates-page-template-js",
-      "context": {
-        "slug": "/about/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
-      "id": "SitePage /about/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a5e71efcf8fde24354a663a2a08ce92c",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /starters/": {
-      "layout": "index",
-      "jsonName": "starters.json",
-      "internalComponentName": "ComponentStarters",
-      "path": "/starters/",
-      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
-      "componentChunkName": "component---src-templates-page-template-js",
-      "context": {
-        "slug": "/starters/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
-      "id": "SitePage /starters/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "34ff78db02dbe7c768c046b394969265",
+        "contentDigest": "7b3acbfd06b24297893eb9734ecace55",
         "owner": "internal-data-bridge"
       }
     },
@@ -3304,7 +3092,51 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7afb35a7e0f751cbab46a3ac6193ef0e",
+        "contentDigest": "c1ee250b390516572f2c5e52715ba2db",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /starters/": {
+      "layout": "index",
+      "jsonName": "starters.json",
+      "internalComponentName": "ComponentStarters",
+      "path": "/starters/",
+      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
+      "componentChunkName": "component---src-templates-page-template-js",
+      "context": {
+        "slug": "/starters/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
+      "id": "SitePage /starters/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7cdc5d4f53f2b42e28872fc993e5431c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
+      "componentChunkName": "component---src-templates-page-template-js",
+      "context": {
+        "slug": "/about/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d4dec7f84da23cddafcc02fbde8dd169",
         "owner": "internal-data-bridge"
       }
     },
@@ -3324,7 +3156,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aa4d435799879422e44235935faffb39",
+        "contentDigest": "2b82d6666a5946af28bd48804386ac3e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3344,7 +3176,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f12f75d288eac6bd9ce08bea18362cfd",
+        "contentDigest": "b5b7e6298890b8ebf2c96f49f3970c11",
         "owner": "internal-data-bridge"
       }
     },
@@ -3364,7 +3196,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "34daf473ac922f702d8cd66fbc3f4355",
+        "contentDigest": "be385c40720d479a6e9a7b920633e1ab",
         "owner": "internal-data-bridge"
       }
     }
@@ -3403,10 +3235,12 @@
       ],
       "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file": [
         "/retreat-to-tatopani/",
+        null,
         null
       ],
       "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file >> ImageSharp": [
         "/retreat-to-tatopani/",
+        null,
         null
       ],
       "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file >>> MarkdownRemark": [

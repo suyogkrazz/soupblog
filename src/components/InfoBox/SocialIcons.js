@@ -8,6 +8,7 @@ import { ReactComponent as GithubIcon } from "../../images/svg-icons/github.svg"
 import { ReactComponent as FacebookIcon } from "../../images/svg-icons/facebook.svg";
 import { ReactComponent as TwitterIcon } from "../../images/svg-icons/twitter.svg";
 
+import { ReactComponent as InstagramIcon } from "../../images/svg-icons/instagram.svg";
 const styles = theme => ({
   social: {
     display: "flex",
@@ -37,7 +38,8 @@ const Socialcons = props => {
   const icons = {
     twitter: TwitterIcon,
     facebook: FacebookIcon,
-    github: GithubIcon
+    github: GithubIcon,
+    instagram: InstagramIcon
   };
 
   return (

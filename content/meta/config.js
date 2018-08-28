@@ -1,21 +1,21 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "Krazz Blog", // <title>
-  shortSiteTitle: "Krazz Blog", // <title> ending for posts and pages
+  siteTitle: "Soup Blog", // <title>
+  shortSiteTitle: "Soup Blog", // <title> ending for posts and pages
   siteDescription: "PersonalBlog.",
-  siteUrl: "https://suyogkc.com.np",
+  siteUrl: "https://sworupkc.com.np",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "Suyog K.C",
+  authorName: "Sworup K.C",
   authorTwitterAccount: "suyogkrazz",
   // info
-  infoTitle: "Suyog K.C",
+  infoTitle: "Sworup K.C",
   infoTitleNote: "personal blog",
   // manifest.json
-  manifestName: "PersonalBlog - Suyog K.C",
+  manifestName: "PersonalBlog - Sworup K.C",
   manifestShortName: "PersonalBlog", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.bg,
@@ -24,7 +24,7 @@ module.exports = {
   // social
   authorSocialLinks: [
     { name: "github", url: "http://github.com/suyogkrazz" },
-    { name: "twitter", url: "https://twitter.com/Suyogkrazz" },
-    { name: "facebook", url: "https://www.facebook.com/suyogkrazz" }
+    { name: "instagram", url: "https://www.instagram.com/sworup.kc/" },
+    { name: "facebook", url: "https://www.facebook.com/sworupkc0" }
   ]
 };

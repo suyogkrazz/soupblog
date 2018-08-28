@@ -35,27 +35,6 @@ const Page = props => {
     <Article>
       <PageHeader {...page.frontmatter} />
       <Content html={html} />
-      {page.frontmatter.title == "About" && (
-        <Card>
-          <Typography variant="display1" color="secondary" align="center">
-            My Skills
-          </Typography>
-          <CardContent>
-            <BarChart
-              width={600}
-              height={300}
-              data={data}
-              margin={{ top: 5, right: 30, left: 20, bottom: 5 }}
-            >
-              <CartesianGrid strokeDasharray="3 3" />
-              <XAxis dataKey="name" />
-              <Legend />
-              <Tooltip />
-              <Bar dataKey="percent" fill="#8884d8" />
-            </BarChart>
-          </CardContent>
-        </Card>
-      )}
     </Article>
   );
 };
