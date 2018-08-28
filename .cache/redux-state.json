@@ -1,0 +1,3425 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7eb6652de41a0da6e78bad49b8401a7c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b5f985e1e697c0d789d172cd9d8547c0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "201efbf398674177c9ee617e62d57f94",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2064000646c3721f0295a9717c36d113",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8fdffa9654001ee8e519a7f3ac6bb6fe",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4c81ef70ecf79101b62db232957f88a6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "692bb24f2d8221e44971545dabe7d3c4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-algolia": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-algolia",
+      "id": "Plugin gatsby-plugin-algolia",
+      "name": "gatsby-plugin-algolia",
+      "version": "0.0.3",
+      "pluginOptions": {
+        "plugins": [],
+        "appId": "...",
+        "apiKey": "...",
+        "indexName": "...",
+        "queries": [
+          {
+            "query": "{\n  allMarkdownRemark(filter: { id: { regex: \"//posts|pages//\" } }) {\n    edges {\n      node {\n        objectID: id\n        fields {\n          slug\n        }\n        internal {\n          content\n        }\n        frontmatter {\n          title\n          subTitle\n        }\n      }\n    }\n  }\n}"
+          }
+        ],
+        "chunkSize": 10000
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-algolia",
+      "packageJson": {
+        "name": "gatsby-plugin-algolia",
+        "description": "A gatsby plugin to push to Algolia based on a certain query",
+        "version": "0.0.3",
+        "keywords": [
+          "gatsby",
+          "search",
+          "graphql",
+          "algolia",
+          "gatsby-plugin"
+        ],
+        "author": "Algolia",
+        "license": "Apache-2.0",
+        "dependencies": [
+          {
+            "name": "algoliasearch",
+            "version": "^3.24.5"
+          },
+          {
+            "name": "lodash.chunk",
+            "version": "^4.2.0"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0de263ba8ab92b359103df634d7e2dfc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.28",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "parts",
+        "path": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.28",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bafe737ae4775b587ba160bde3b6f780",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.39",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-sharp",
+            "id": "Plugin gatsby-plugin-sharp",
+            "name": "gatsby-plugin-sharp",
+            "version": "1.6.41",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-sharp"
+          },
+          {
+            "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "1.5.60",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 800,
+              "backgroundColor": "transparent",
+              "wrapperStyle": "",
+              "linkImagesToOriginal": true,
+              "showCaptions": false,
+              "pathPrefix": ""
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-responsive-iframe",
+            "id": "Plugin gatsby-remark-responsive-iframe",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "1.4.18",
+            "pluginOptions": {
+              "plugins": [],
+              "wrapperStyle": "margin-bottom: 2em"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-responsive-iframe"
+          },
+          {
+            "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-prismjs",
+            "id": "Plugin gatsby-remark-prismjs",
+            "name": "gatsby-remark-prismjs",
+            "version": "1.2.22",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "1.5.30",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-emoji",
+            "id": "Plugin gatsby-remark-emoji",
+            "name": "gatsby-remark-emoji",
+            "version": "0.0.2",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-emoji"
+          },
+          {
+            "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-smartypants",
+            "id": "Plugin gatsby-remark-smartypants",
+            "name": "gatsby-remark-smartypants",
+            "version": "1.4.12",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-smartypants"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.39",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8c33f0b6c4ecb559959fa079e400b17e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.41",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.41",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b8050dde0a6d6b87f01dee23a3841843",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "1.5.60",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 800,
+        "backgroundColor": "transparent",
+        "wrapperStyle": "",
+        "linkImagesToOriginal": true,
+        "showCaptions": false,
+        "pathPrefix": ""
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "1.5.60",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.41"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e8abcffc3eb68071591ded821dddaa75",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-responsive-iframe": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-responsive-iframe",
+      "id": "Plugin gatsby-remark-responsive-iframe",
+      "name": "gatsby-remark-responsive-iframe",
+      "version": "1.4.18",
+      "pluginOptions": {
+        "plugins": [],
+        "wrapperStyle": "margin-bottom: 2em"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-responsive-iframe",
+      "packageJson": {
+        "name": "gatsby-remark-responsive-iframe",
+        "description": "Make iframes in Markdown processed by Remark responsive",
+        "version": "1.4.18",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4fece0ff11e0c0127dccda3c833b537a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-prismjs": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-prismjs",
+      "id": "Plugin gatsby-remark-prismjs",
+      "name": "gatsby-remark-prismjs",
+      "version": "1.2.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "1.2.22",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "0.0.2"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.12.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.3"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c4f42170fe1efbb7be8fa09c9b9d4bec",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-copy-linked-files": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "1.5.30",
+      "pluginOptions": {
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "1.5.30",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2b2e74cd0dc63ff10c550b45f4b0e245",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-emoji": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-emoji",
+      "id": "Plugin gatsby-remark-emoji",
+      "name": "gatsby-remark-emoji",
+      "version": "0.0.2",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-emoji",
+      "packageJson": {
+        "name": "gatsby-remark-emoji",
+        "description": "Add slack-style emoji to gatsby's markdown :thumbs_up:.",
+        "version": "0.0.2",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "emoji",
+          "markdown"
+        ],
+        "author": "Rustem Mustafin <mustafin.rustem@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "emojione",
+            "version": "^3.1.2"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a74529a10ab5d1420c990989b1664bc1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-smartypants": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-smartypants",
+      "id": "Plugin gatsby-remark-smartypants",
+      "name": "gatsby-remark-smartypants",
+      "version": "1.4.12",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-remark-smartypants",
+      "packageJson": {
+        "name": "gatsby-remark-smartypants",
+        "description": "Use retext-smartypants to auto-enhance typography of markdown",
+        "version": "1.4.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "smartypants"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "retext",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-smartypants",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4b50ee6748e1cac5575ded5e6c7aa50b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.22",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "de8447169c588250a08f94b5c301498c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d431b5544c252e326f8928677a1cc6d6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-catch-links": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-catch-links",
+      "id": "Plugin gatsby-plugin-catch-links",
+      "name": "gatsby-plugin-catch-links",
+      "version": "1.0.19",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-catch-links",
+      "packageJson": {
+        "name": "gatsby-plugin-catch-links",
+        "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
+        "version": "1.0.19",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "05203ae82d0a557e94a0e416c41e6f50",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-manifest": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-manifest",
+      "id": "Plugin gatsby-plugin-manifest",
+      "name": "gatsby-plugin-manifest",
+      "version": "1.0.15",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "PersonalBlog - Suyog K.C",
+        "short_name": "PersonalBlog",
+        "start_url": "/",
+        "display": "standalone",
+        "icons": [
+          {
+            "src": "/icons/icon-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.json to make sites progressive web apps",
+        "version": "1.0.15",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "manifest.json",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f6d94aa9df11d419675587738292a94b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-offline": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
+      "name": "gatsby-plugin-offline",
+      "version": "1.0.15",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "1.0.15",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "sw-precache",
+            "version": "^5.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c2b54c8315a1f5dc8a3d652dca325cec",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.28",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "..."
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.28",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3ec927e4e6bdea52c5e615680fc905a7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-feed": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-feed",
+      "id": "Plugin gatsby-plugin-feed",
+      "name": "gatsby-plugin-feed",
+      "version": "1.3.20",
+      "pluginOptions": {
+        "plugins": [],
+        "query": "\n          {\n            site {\n              siteMetadata {\n                title\n                description\n                siteUrl\n                site_url: siteUrl\n              }\n            }\n          }\n        ",
+        "feeds": [
+          {
+            "query": "\n              {\n                allMarkdownRemark(\n                  limit: 1000,\n                  sort: { order: DESC, fields: [fields___prefix] },\n                  filter: { id: { regex: \"//posts//\" } }\n                ) {\n                  edges {\n                    node {\n                      excerpt\n                      html\n                      fields { \n                        slug\n                        prefix \n                      }\n                      frontmatter {\n                        title\n                      }\n                    }\n                  }\n                }\n              }\n            ",
+            "output": "/rss.xml"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-feed",
+      "packageJson": {
+        "name": "gatsby-plugin-feed",
+        "description": "Creates an RSS feed for your Gatsby site.",
+        "version": "1.3.20",
+        "main": "index.js",
+        "keywords": [
+          "atom",
+          "feed",
+          "gatsby",
+          "gatsby-plugin",
+          "rss"
+        ],
+        "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "lodash.merge",
+            "version": "^4.6.0"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "rss",
+            "version": "^1.2.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1fdb65a1d3e97850048185a89739a7db",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sitemap": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-sitemap",
+      "id": "Plugin gatsby-plugin-sitemap",
+      "name": "gatsby-plugin-sitemap",
+      "version": "1.2.20",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Gatsby plugin that automatically creates a sitemap for your site",
+        "version": "1.2.20",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "35dd1348beb923698071bd57d8221c03",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-svgr": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-svgr",
+      "id": "Plugin gatsby-plugin-svgr",
+      "name": "gatsby-plugin-svgr",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-svgr",
+      "packageJson": {
+        "name": "gatsby-plugin-svgr",
+        "description": "Svgr plugin for gatsby",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "svgr"
+        ],
+        "author": {
+          "name": "Ardamis Yeshak",
+          "email": "arde987@gmail.com",
+          "url": "https://github.com/zabute"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "svgr",
+            "version": "*"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ea38b5f80b0f2ca6188dc9dd5a35c2c3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/home/vayu-suyog/WorkSpace/blog/soupblog",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "8c315dcffbd04cf2cb5a17ccc777bcd6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "createPages",
+        "modifyWebpackConfig",
+        "modifyBabelrc"
+      ],
+      "browserAPIs": [
+        "onInitialClientRender",
+        "replaceRouterComponent"
+      ],
+      "ssrAPIs": [
+        "replaceRenderer",
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/vayu-suyog/WorkSpace/blog/soupblog",
+      "packageJson": {
+        "name": "gatsby-starter-personal-blog",
+        "description": "A Gatsby starter for a personal blog",
+        "version": "1.0.6",
+        "author": "Greg Lobinski <greglobinski@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@sendgrid/mail",
+            "version": "^6.2.1"
+          },
+          {
+            "name": "color",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.9.244"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.42"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.40"
+          },
+          {
+            "name": "gatsby-plugin-algolia",
+            "version": "^0.0.3"
+          },
+          {
+            "name": "gatsby-plugin-catch-links",
+            "version": "^1.0.15"
+          },
+          {
+            "name": "gatsby-plugin-feed",
+            "version": "^1.3.20"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.28"
+          },
+          {
+            "name": "gatsby-plugin-jss",
+            "version": "^1.5.9"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-netlify",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^1.0.10"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.10"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.41"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^1.2.20"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^1.5.26"
+          },
+          {
+            "name": "gatsby-remark-emoji",
+            "version": "^0.0.2"
+          },
+          {
+            "name": "gatsby-remark-external-links",
+            "version": "^0.0.4"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.60"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^1.2.22"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "^1.4.16"
+          },
+          {
+            "name": "gatsby-remark-smartypants",
+            "version": "^1.4.10"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.28"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.39"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.16"
+          },
+          {
+            "name": "instantsearch.css",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "mailgun.js",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "material-ui",
+            "version": "1.0.0-beta.36"
+          },
+          {
+            "name": "material-ui-icons",
+            "version": "^1.0.0-beta.17"
+          },
+          {
+            "name": "react-custom-scrollbars",
+            "version": "^4.2.1"
+          },
+          {
+            "name": "react-disqus-comments",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "react-facebook",
+            "version": "^5.0.3"
+          },
+          {
+            "name": "react-headroom",
+            "version": "^2.2.2"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-instantsearch",
+            "version": "^5.0.3"
+          },
+          {
+            "name": "react-lazyload",
+            "version": "^2.3.0"
+          },
+          {
+            "name": "react-loadable",
+            "version": "^5.3.1"
+          },
+          {
+            "name": "react-loadable-visibility",
+            "version": "^2.4.2"
+          },
+          {
+            "name": "react-material-ui-form-validator",
+            "version": "^2.0.0-beta.4"
+          },
+          {
+            "name": "react-obfuscate",
+            "version": "^1.3.0"
+          },
+          {
+            "name": "react-popper",
+            "version": "^0.9.2"
+          },
+          {
+            "name": "react-redux",
+            "version": "^5.0.6"
+          },
+          {
+            "name": "react-share",
+            "version": "^2.1.0"
+          },
+          {
+            "name": "rebound",
+            "version": "^0.1.0"
+          },
+          {
+            "name": "recharts",
+            "version": "^1.0.0-beta.10"
+          },
+          {
+            "name": "redux",
+            "version": "^3.7.2"
+          },
+          {
+            "name": "redux-devtools-extension",
+            "version": "^2.13.2"
+          },
+          {
+            "name": "screenfull",
+            "version": "^3.3.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-eslint",
+            "version": "^8.2.1"
+          },
+          {
+            "name": "babel-plugin-dynamic-import-webpack",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "babel-plugin-syntax-dynamic-import",
+            "version": "^6.18.0"
+          },
+          {
+            "name": "dotenv",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "eslint",
+            "version": "^4.19.1"
+          },
+          {
+            "name": "eslint-config-google",
+            "version": "^0.9.1"
+          },
+          {
+            "name": "eslint-config-prettier",
+            "version": "^2.9.0"
+          },
+          {
+            "name": "eslint-plugin-graphql",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.10.0"
+          },
+          {
+            "name": "eslint-plugin-jsx-a11y",
+            "version": "^6.0.3"
+          },
+          {
+            "name": "eslint-plugin-prettier",
+            "version": "^2.5.0"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.6.1"
+          },
+          {
+            "name": "gatsby-plugin-svgr",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.10.2"
+          },
+          {
+            "name": "sharp-cli",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "webpack-bundle-analyzer",
+            "version": "^2.10.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "01eac58b5c9366b374d3df4fb6a50b77",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Krazz Blog",
+        "description": "PersonalBlog.",
+        "siteUrl": "https://suyogkc.com.np",
+        "pathPrefix": "",
+        "algolia": {
+          "appId": "...",
+          "searchOnlyApiKey": "...",
+          "indexName": "..."
+        },
+        "facebook": {
+          "appId": "..."
+        }
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-08-28T10:48:43.335Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5d1841396a9670e56c80aab02b3ec02d",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/ absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/ absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b285e2103ac99670791e665fd8941f1b",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:41:34.333Z",
+      "changeTime": "2018-08-28T10:40:11.592Z",
+      "birthTime": "2018-08-28T10:40:11.592Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "..",
+      "dev": 2054,
+      "mode": 16893,
+      "nlink": 3,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1671819,
+      "blocks": 8,
+      "atimeMs": 1535452894333.2417,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811592.3071,
+      "birthtimeMs": 1535452811592.3071,
+      "atime": "2018-08-28T10:41:34.333Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.592Z",
+      "birthtime": "2018-08-28T10:40:11.592Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "94a187e494989d17aca09732eed4043f",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani",
+      "relativePath": "2018-05-05--retreat-to-tatopani",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:41:34.377Z",
+      "changeTime": "2018-08-28T10:40:11.588Z",
+      "birthTime": "2018-08-28T10:40:11.588Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts",
+      "base": "2018-05-05--retreat-to-tatopani",
+      "ext": "",
+      "name": "2018-05-05--retreat-to-tatopani",
+      "relativeDirectory": "",
+      "dev": 2054,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1671820,
+      "blocks": 8,
+      "atimeMs": 1535452894377.2422,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811588.3071,
+      "birthtimeMs": 1535452811588.3071,
+      "atime": "2018-08-28T10:41:34.377Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.588Z",
+      "birthtime": "2018-08-28T10:40:11.588Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e928c9db3ef3e99712d53e91a46c54a2",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md",
+      "relativePath": "2018-05-05--retreat-to-tatopani/index.md",
+      "extension": "md",
+      "size": 1443,
+      "prettySize": "1.44 kB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:40:11.588Z",
+      "changeTime": "2018-08-28T10:40:11.588Z",
+      "birthTime": "2018-08-28T10:40:11.588Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2018-05-05--retreat-to-tatopani",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1582651,
+      "blocks": 8,
+      "atimeMs": 1535452811588.307,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811588.3071,
+      "birthtimeMs": 1535452811588.3071,
+      "atime": "2018-08-28T10:40:11.588Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.588Z",
+      "birthtime": "2018-08-28T10:40:11.588Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Retreat To Tatopani\nsubTitle: Finding Motivation\ncategory: \"life\"\ncover: tatos.jpg\n---\n\nLately It's been getting quite monotonous. Going to work and back with little time to spend on myself has been a daily routine for quite a time now. Well I also had to try out my s9 camera on some good landscapes.So I decided to leave for Pokhara. **Since** there was a holiday in buddhajayenti and I took a leave for day after from office resulting in 4 days off from office including weekends. Since It would take a whole day to reach Pokhara from Kathmandu , I had already wasted my two days of my short vacation. I packed my kindle with **The Alchemist** Paulo Coelo for a reread during my trip. I have been getting recommendation of **Norwegian Wood** from a coworker, Maybe I will read that next time. Next day I meet up with old pal and decided to go to TatoPani resort near Pokhara.We set off around 5 pm and reached at our destination about 7 pm. The road was quite good but it was raining all the way.\n\n![](./tatos.jpg)\n\n<p align=\"center\" style=\"text-style:'italic\"> <i>\nLoved this view .Coke and old durbar never tested so much better.</i> </p>\n\nThe view made it worth the rainy trip.I recommend it to anyone who wants to get in touch with nature. [Tatopani Resort](https://www.facebook.com/BhurjungKholaTatopani/)\n\n![](./20180430_091658.jpg)\n\n<p align=\"center\" style=\"text-style:'italic\"> <i>Made a new friend </i>😍 </p>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "64dd3e2277350ed328160a9b29c67cd2",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Retreat To Tatopani",
+        "subTitle": "Finding Motivation",
+        "category": "life",
+        "cover": "tatos.jpg",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md",
+      "fields": {
+        "slug": "/retreat-to-tatopani/",
+        "prefix": "2018-05-05"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "21551bfcd308cc95aa848ae95d9a9cfd",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg",
+      "relativePath": "2018-05-05--retreat-to-tatopani/20180430_091658.jpg",
+      "extension": "jpg",
+      "size": 701414,
+      "prettySize": "701 kB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:40:11.584Z",
+      "changeTime": "2018-08-28T10:40:11.588Z",
+      "birthTime": "2018-08-28T10:40:11.588Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani",
+      "base": "20180430_091658.jpg",
+      "ext": ".jpg",
+      "name": "20180430_091658",
+      "relativeDirectory": "2018-05-05--retreat-to-tatopani",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1582650,
+      "blocks": 1376,
+      "atimeMs": 1535452811584.307,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811588.3071,
+      "birthtimeMs": 1535452811588.3071,
+      "atime": "2018-08-28T10:40:11.584Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.588Z",
+      "birthtime": "2018-08-28T10:40:11.588Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg absPath of file >> ImageSharp": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg absPath of file",
+      "internal": {
+        "contentDigest": "21551bfcd308cc95aa848ae95d9a9cfd",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d04332b8d74056d3b13b96a9a21715b4",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg",
+      "relativePath": "2018-05-05--retreat-to-tatopani/tatos.jpg",
+      "extension": "jpg",
+      "size": 1039091,
+      "prettySize": "1.04 MB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:40:11.588Z",
+      "changeTime": "2018-08-28T10:40:11.588Z",
+      "birthTime": "2018-08-28T10:40:11.588Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani",
+      "base": "tatos.jpg",
+      "ext": ".jpg",
+      "name": "tatos",
+      "relativeDirectory": "2018-05-05--retreat-to-tatopani",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1582652,
+      "blocks": 2032,
+      "atimeMs": 1535452811588.307,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811588.3071,
+      "birthtimeMs": 1535452811588.3071,
+      "atime": "2018-08-28T10:40:11.588Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.588Z",
+      "birthtime": "2018-08-28T10:40:11.588Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file >> ImageSharp": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file",
+      "internal": {
+        "contentDigest": "d04332b8d74056d3b13b96a9a21715b4",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/ absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/ absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c5ef2c80f745de250b4ee51d247a1edc",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:41:34.333Z",
+      "changeTime": "2018-08-28T10:40:11.584Z",
+      "birthTime": "2018-08-28T10:40:11.584Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 2054,
+      "mode": 16893,
+      "nlink": 5,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1671814,
+      "blocks": 8,
+      "atimeMs": 1535452894333.2417,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811584.3071,
+      "birthtimeMs": 1535452811584.3071,
+      "atime": "2018-08-28T10:41:34.333Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.584Z",
+      "birthtime": "2018-08-28T10:40:11.584Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3261aa68b77dd9680a571a87c265b742",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about",
+      "relativePath": "1--about",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:41:34.377Z",
+      "changeTime": "2018-08-28T10:40:11.576Z",
+      "birthTime": "2018-08-28T10:40:11.576Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages",
+      "base": "1--about",
+      "ext": "",
+      "name": "1--about",
+      "relativeDirectory": "",
+      "dev": 2054,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1671815,
+      "blocks": 8,
+      "atimeMs": 1535452894377.2422,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811576.307,
+      "birthtimeMs": 1535452811576.307,
+      "atime": "2018-08-28T10:41:34.377Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.576Z",
+      "birthtime": "2018-08-28T10:40:11.576Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5a6413f7a8f2bce4de3f6af8414a7bc4",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters",
+      "relativePath": "2--starters",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:41:34.377Z",
+      "changeTime": "2018-08-28T10:40:11.580Z",
+      "birthTime": "2018-08-28T10:40:11.580Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages",
+      "base": "2--starters",
+      "ext": "",
+      "name": "2--starters",
+      "relativeDirectory": "",
+      "dev": 2054,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1671816,
+      "blocks": 8,
+      "atimeMs": 1535452894377.2422,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811580.307,
+      "birthtimeMs": 1535452811580.307,
+      "atime": "2018-08-28T10:41:34.377Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.580Z",
+      "birthtime": "2018-08-28T10:40:11.580Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c3009f08d311b986edd15de0c5bf36af",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success",
+      "relativePath": "success",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:41:34.377Z",
+      "changeTime": "2018-08-28T10:40:11.584Z",
+      "birthTime": "2018-08-28T10:40:11.584Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages",
+      "base": "success",
+      "ext": "",
+      "name": "success",
+      "relativeDirectory": "",
+      "dev": 2054,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1671817,
+      "blocks": 8,
+      "atimeMs": 1535452894377.2422,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811584.3071,
+      "birthtimeMs": 1535452811584.3071,
+      "atime": "2018-08-28T10:41:34.377Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.584Z",
+      "birthtime": "2018-08-28T10:40:11.584Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e3ffe38198dda610657721b54b616df1",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md",
+      "relativePath": "1--about/index.md",
+      "extension": "md",
+      "size": 116,
+      "prettySize": "116 B",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:40:11.576Z",
+      "changeTime": "2018-08-28T10:40:11.576Z",
+      "birthTime": "2018-08-28T10:40:11.576Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "1--about",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1582641,
+      "blocks": 8,
+      "atimeMs": 1535452811576.306,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811576.307,
+      "birthtimeMs": 1535452811576.307,
+      "atime": "2018-08-28T10:40:11.576Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.576Z",
+      "birthtime": "2018-08-28T10:40:11.576Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "33243e4c37bc86a5195ee2450d88d965",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md",
+      "relativePath": "2--starters/index.md",
+      "extension": "md",
+      "size": 650,
+      "prettySize": "650 B",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:40:11.580Z",
+      "changeTime": "2018-08-28T10:40:11.580Z",
+      "birthTime": "2018-08-28T10:40:11.580Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2--starters",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1582644,
+      "blocks": 8,
+      "atimeMs": 1535452811580.307,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811580.307,
+      "birthtimeMs": 1535452811580.307,
+      "atime": "2018-08-28T10:40:11.580Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.580Z",
+      "birthtime": "2018-08-28T10:40:11.580Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "94d665fb2b8fcd20e01007e5b33e27b4",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md",
+      "relativePath": "success/index.md",
+      "extension": "md",
+      "size": 85,
+      "prettySize": "85 B",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:40:11.580Z",
+      "changeTime": "2018-08-28T10:40:11.584Z",
+      "birthTime": "2018-08-28T10:40:11.584Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "success",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1582646,
+      "blocks": 8,
+      "atimeMs": 1535452811580.307,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811584.3071,
+      "birthtimeMs": 1535452811584.3071,
+      "atime": "2018-08-28T10:40:11.580Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.584Z",
+      "birthtime": "2018-08-28T10:40:11.584Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b503c22609fe4756f2162a602a9bc73a",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg",
+      "relativePath": "2--starters/gatsby-styled-blog-starter.jpg",
+      "extension": "jpg",
+      "size": 127689,
+      "prettySize": "128 kB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:40:11.580Z",
+      "changeTime": "2018-08-28T10:40:11.580Z",
+      "birthTime": "2018-08-28T10:40:11.580Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters",
+      "base": "gatsby-styled-blog-starter.jpg",
+      "ext": ".jpg",
+      "name": "gatsby-styled-blog-starter",
+      "relativeDirectory": "2--starters",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1582643,
+      "blocks": 256,
+      "atimeMs": 1535452811580.307,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811580.307,
+      "birthtimeMs": 1535452811580.307,
+      "atime": "2018-08-28T10:40:11.580Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.580Z",
+      "birthtime": "2018-08-28T10:40:11.580Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "089c1d272e5cae578ce801a29fab581a",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png",
+      "relativePath": "2--starters/user-experience-notes.png",
+      "extension": "png",
+      "size": 161686,
+      "prettySize": "162 kB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:40:11.580Z",
+      "changeTime": "2018-08-28T10:40:11.580Z",
+      "birthTime": "2018-08-28T10:40:11.580Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters",
+      "base": "user-experience-notes.png",
+      "ext": ".png",
+      "name": "user-experience-notes",
+      "relativeDirectory": "2--starters",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1582645,
+      "blocks": 320,
+      "atimeMs": 1535452811580.307,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811580.307,
+      "birthtimeMs": 1535452811580.307,
+      "atime": "2018-08-28T10:40:11.580Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.580Z",
+      "birthtime": "2018-08-28T10:40:11.580Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file >> ImageSharp": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file",
+      "internal": {
+        "contentDigest": "b503c22609fe4756f2162a602a9bc73a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png absPath of file >> ImageSharp": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/user-experience-notes.png absPath of file",
+      "internal": {
+        "contentDigest": "089c1d272e5cae578ce801a29fab581a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: About\n---\n\nThis is my Personal **Blog**\n\n## About me\n\nMy name is **Suyog**. I am a full stack developer.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "0fa18963895100a4da5c4e27c57640b2",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md",
+      "fields": {
+        "slug": "/about/",
+        "prefix": "1"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: My Works\nmenuTitle: My Works\n---\n\n### [ShiftCare](https://shiftcare.com/)\n\nShiftCare software makes it a breeze to manage rosters, notify staff, run timesheets and manage smart attendance. Made with love in react native\n[Android](https://play.google.com/store/apps/details?id=com.tecfoundary.shiftcare&hl=en)\n[IOS](https://itunes.apple.com/au/app/shiftcare/id1252971579?mt=8)\n\n### [Conx](https://www.conxjobs.com/)\n\nAustralia’s fastest growing construction network\n\n### [Homnia](https://homnia.fi/search?location=Salo,%20Finland&placeID=ChIJEZi2yKxHjEYRriHsfO14Ce8&leashType=Buy&orderBy=published_at&page=1)\n\nFind real estate in Finland\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "542ac2d3c88d82bc67133509e602f6fd",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "My Works",
+        "menuTitle": "My Works",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md",
+      "fields": {
+        "slug": "/starters/",
+        "prefix": "2"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Success\n---\n\nThank you. I will answer to the message as soon as possible.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "8b2e74269e188129b5b979f126bb73e7",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Success",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md",
+      "fields": {
+        "slug": "/success/",
+        "prefix": ""
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3494b63cc6347858cbda9823e24ee1aa",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png",
+      "relativePath": "2--starters/gatsby-starter-simple-landing.png",
+      "extension": "png",
+      "size": 329808,
+      "prettySize": "330 kB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:40:11.580Z",
+      "changeTime": "2018-08-28T10:40:11.580Z",
+      "birthTime": "2018-08-28T10:40:11.580Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters",
+      "base": "gatsby-starter-simple-landing.png",
+      "ext": ".png",
+      "name": "gatsby-starter-simple-landing",
+      "relativeDirectory": "2--starters",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1582642,
+      "blocks": 648,
+      "atimeMs": 1535452811580.307,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811580.307,
+      "birthtimeMs": 1535452811580.307,
+      "atime": "2018-08-28T10:40:11.580Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.580Z",
+      "birthtime": "2018-08-28T10:40:11.580Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file >> ImageSharp": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file",
+      "internal": {
+        "contentDigest": "3494b63cc6347858cbda9823e24ee1aa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/ absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/ absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a2b41892f63def3314149af93cad0c16",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "parts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:41:34.333Z",
+      "changeTime": "2018-08-28T10:40:11.584Z",
+      "birthTime": "2018-08-28T10:40:11.584Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content",
+      "base": "parts",
+      "ext": "",
+      "name": "parts",
+      "relativeDirectory": "..",
+      "dev": 2054,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1671818,
+      "blocks": 8,
+      "atimeMs": 1535452894333.2417,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811584.3071,
+      "birthtimeMs": 1535452811584.3071,
+      "atime": "2018-08-28T10:41:34.333Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.584Z",
+      "birthtime": "2018-08-28T10:40:11.584Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "da39dcb5e8a174891ecf4926de2b12c3",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "parts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md",
+      "relativePath": "author.md",
+      "extension": "md",
+      "size": 196,
+      "prettySize": "196 B",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:40:11.584Z",
+      "changeTime": "2018-08-28T10:40:11.584Z",
+      "birthTime": "2018-08-28T10:40:11.584Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts",
+      "base": "author.md",
+      "ext": ".md",
+      "name": "author",
+      "relativeDirectory": "",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1582647,
+      "blocks": 8,
+      "atimeMs": 1535452811584.307,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811584.3071,
+      "birthtimeMs": 1535452811584.3071,
+      "atime": "2018-08-28T10:40:11.584Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.584Z",
+      "birthtime": "2018-08-28T10:40:11.584Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "16117b9484119fb976445087d02bdbcc",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "parts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md",
+      "relativePath": "footnote.md",
+      "extension": "md",
+      "size": 228,
+      "prettySize": "228 B",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:40:11.584Z",
+      "changeTime": "2018-08-28T10:40:11.584Z",
+      "birthTime": "2018-08-28T10:40:11.584Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts",
+      "base": "footnote.md",
+      "ext": ".md",
+      "name": "footnote",
+      "relativeDirectory": "",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1582648,
+      "blocks": 8,
+      "atimeMs": 1535452811584.307,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811584.3071,
+      "birthtimeMs": 1535452811584.3071,
+      "atime": "2018-08-28T10:40:11.584Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.584Z",
+      "birthtime": "2018-08-28T10:40:11.584Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "877873b176c7b2c8ead10828704e78a1",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "parts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md",
+      "relativePath": "info.md",
+      "extension": "md",
+      "size": 175,
+      "prettySize": "175 B",
+      "modifiedTime": "2018-06-26T04:33:39.000Z",
+      "accessTime": "2018-08-28T10:40:11.584Z",
+      "changeTime": "2018-08-28T10:40:11.584Z",
+      "birthTime": "2018-08-28T10:40:11.584Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts",
+      "base": "info.md",
+      "ext": ".md",
+      "name": "info",
+      "relativeDirectory": "",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1582649,
+      "blocks": 8,
+      "atimeMs": 1535452811584.307,
+      "mtimeMs": 1529987619000,
+      "ctimeMs": 1535452811584.3071,
+      "birthtimeMs": 1535452811584.3071,
+      "atime": "2018-08-28T10:40:11.584Z",
+      "mtime": "2018-06-26T04:33:39.000Z",
+      "ctime": "2018-08-28T10:40:11.584Z",
+      "birthtime": "2018-08-28T10:40:11.584Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: author\n---\n\n**Mr. Suyog** is a experienced fullstack developer with a strong appreciation for good UX and love to face challenges specially offered from new technology and environment.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "6fe6364a26f789dbc098d7b2895ad339",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "author",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md",
+      "fields": {
+        "slug": "/author/",
+        "prefix": ""
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: info\n---\n\nExperienced fullstack developer with a strong appreciation for good UX and love to face challenges specially offered from new technology and environment.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "9e6cc75b91f868b64af07c2e66296360",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "info",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md",
+      "fields": {
+        "slug": "/info/",
+        "prefix": ""
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: footnote\n---\n\n* Built by [Suyog K.C](https://www.linkedin.com/in/suyogkc/)\n* with [Gatsby](https://www.gatsbyjs.org/) & [React](https://reactjs.org)\n* source code on [GitHub](https://github.com/suyogkrazz/krazzyblog)\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "f519717659609d3743b63e2945ad574d",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "footnote",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md",
+      "fields": {
+        "slug": "/footnote/",
+        "prefix": ""
+      }
+    },
+    "SitePage /retreat-to-tatopani/": {
+      "layout": "index",
+      "jsonName": "retreat-to-tatopani.json",
+      "internalComponentName": "ComponentRetreatToTatopani",
+      "path": "/retreat-to-tatopani/",
+      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PostTemplate.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/retreat-to-tatopani/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PostTemplate.js",
+      "id": "SitePage /retreat-to-tatopani/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "03e8823160eec3c5159e3c1419a0e149",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
+      "componentChunkName": "component---src-templates-page-template-js",
+      "context": {
+        "slug": "/about/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a5e71efcf8fde24354a663a2a08ce92c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /starters/": {
+      "layout": "index",
+      "jsonName": "starters.json",
+      "internalComponentName": "ComponentStarters",
+      "path": "/starters/",
+      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
+      "componentChunkName": "component---src-templates-page-template-js",
+      "context": {
+        "slug": "/starters/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
+      "id": "SitePage /starters/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "34ff78db02dbe7c768c046b394969265",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /success/": {
+      "layout": "index",
+      "jsonName": "success.json",
+      "internalComponentName": "ComponentSuccess",
+      "path": "/success/",
+      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
+      "componentChunkName": "component---src-templates-page-template-js",
+      "context": {
+        "slug": "/success/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PageTemplate.js",
+      "id": "SitePage /success/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7afb35a7e0f751cbab46a3ac6193ef0e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/pages/contact.js",
+      "componentChunkName": "component---src-pages-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/pages/contact.js",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aa4d435799879422e44235935faffb39",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f12f75d288eac6bd9ce08bea18362cfd",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /search/": {
+      "layout": "index",
+      "jsonName": "search.json",
+      "internalComponentName": "ComponentSearch",
+      "path": "/search/",
+      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/pages/search.js",
+      "componentChunkName": "component---src-pages-search-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/pages/search.js",
+      "id": "SitePage /search/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "34daf473ac922f702d8cd66fbc3f4355",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "669fa4a5c90d1449b0306a0cf63c82ae"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file >>> MarkdownRemark": [
+        "/starters/",
+        "/about/",
+        "/retreat-to-tatopani/",
+        "/success/"
+      ],
+      "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark": [
+        "/retreat-to-tatopani/"
+      ],
+      "Site": [
+        "/starters/",
+        "/about/",
+        "/retreat-to-tatopani/",
+        "/success/",
+        "/",
+        "/search/"
+      ],
+      "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark": [
+        "/starters/"
+      ],
+      "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/1--about/index.md absPath of file >>> MarkdownRemark": [
+        "/about/"
+      ],
+      "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file >>> MarkdownRemark": [
+        "/retreat-to-tatopani/"
+      ],
+      "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file": [
+        "/retreat-to-tatopani/",
+        null
+      ],
+      "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file >> ImageSharp": [
+        "/retreat-to-tatopani/",
+        null
+      ],
+      "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file >>> MarkdownRemark": [
+        "/success/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ],
+      "MarkdownRemark": [
+        "LAYOUT___index"
+      ]
+    }
+  }
+}
