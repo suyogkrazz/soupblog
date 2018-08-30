@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0246c8b1ed3304ebbe133ca5b63f994a",
+        "contentDigest": "6ccea15822e1bcd92c084978fec2abb6",
         "owner": "internal-data-bridge"
       }
     },
@@ -2117,16 +2117,16 @@
           "appId": "..."
         }
       },
-      "port": "8000",
+      "port": 8001,
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-28T11:23:22.169Z",
+      "buildTime": "2018-08-30T18:13:59.267Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5d04fc7549de60dc67724c2761133cb4",
+        "contentDigest": "c4b5596569b3213742116767637fef56",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2136,7 +2136,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b285e2103ac99670791e665fd8941f1b",
+        "contentDigest": "c904953a622ef82a2d1d33f7235e38d9",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2146,10 +2146,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:41:34.333Z",
-      "changeTime": "2018-08-28T10:40:11.592Z",
-      "birthTime": "2018-08-28T10:40:11.592Z",
+      "modifiedTime": "2018-08-30T18:09:28.271Z",
+      "accessTime": "2018-08-30T18:09:28.275Z",
+      "changeTime": "2018-08-30T18:09:28.271Z",
+      "birthTime": "2018-08-30T18:09:28.271Z",
       "root": "/",
       "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content",
       "base": "posts",
@@ -2165,251 +2165,21 @@
       "blksize": 4096,
       "ino": 1671819,
       "blocks": 8,
-      "atimeMs": 1535452894333.2417,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811592.3071,
-      "birthtimeMs": 1535452811592.3071,
-      "atime": "2018-08-28T10:41:34.333Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.592Z",
-      "birthtime": "2018-08-28T10:40:11.592Z"
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani absPath of file": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "94a187e494989d17aca09732eed4043f",
-        "type": "Directory",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani",
-      "relativePath": "2018-05-05--retreat-to-tatopani",
-      "extension": "",
-      "size": 4096,
-      "prettySize": "4.1 kB",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:41:34.377Z",
-      "changeTime": "2018-08-28T10:40:11.588Z",
-      "birthTime": "2018-08-28T10:40:11.588Z",
-      "root": "/",
-      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts",
-      "base": "2018-05-05--retreat-to-tatopani",
-      "ext": "",
-      "name": "2018-05-05--retreat-to-tatopani",
-      "relativeDirectory": "",
-      "dev": 2054,
-      "mode": 16893,
-      "nlink": 2,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 1671820,
-      "blocks": 8,
-      "atimeMs": 1535452894377.2422,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811588.3071,
-      "birthtimeMs": 1535452811588.3071,
-      "atime": "2018-08-28T10:41:34.377Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.588Z",
-      "birthtime": "2018-08-28T10:40:11.588Z"
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file",
-      "children": [
-        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e928c9db3ef3e99712d53e91a46c54a2",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md",
-      "relativePath": "2018-05-05--retreat-to-tatopani/index.md",
-      "extension": "md",
-      "size": 1443,
-      "prettySize": "1.44 kB",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:40:11.588Z",
-      "changeTime": "2018-08-28T10:40:11.588Z",
-      "birthTime": "2018-08-28T10:40:11.588Z",
-      "root": "/",
-      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2018-05-05--retreat-to-tatopani",
-      "dev": 2054,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 1582651,
-      "blocks": 8,
-      "atimeMs": 1535452811588.307,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811588.3071,
-      "birthtimeMs": 1535452811588.3071,
-      "atime": "2018-08-28T10:40:11.588Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.588Z",
-      "birthtime": "2018-08-28T10:40:11.588Z"
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: Retreat To Tatopani\nsubTitle: Finding Motivation\ncategory: \"life\"\ncover: tatos.jpg\n---\n\nLately It's been getting quite monotonous. Going to work and back with little time to spend on myself has been a daily routine for quite a time now. Well I also had to try out my s9 camera on some good landscapes.So I decided to leave for Pokhara. **Since** there was a holiday in buddhajayenti and I took a leave for day after from office resulting in 4 days off from office including weekends. Since It would take a whole day to reach Pokhara from Kathmandu , I had already wasted my two days of my short vacation. I packed my kindle with **The Alchemist** Paulo Coelo for a reread during my trip. I have been getting recommendation of **Norwegian Wood** from a coworker, Maybe I will read that next time. Next day I meet up with old pal and decided to go to TatoPani resort near Pokhara.We set off around 5 pm and reached at our destination about 7 pm. The road was quite good but it was raining all the way.\n\n![](./tatos.jpg)\n\n<p align=\"center\" style=\"text-style:'italic\"> <i>\nLoved this view .Coke and old durbar never tested so much better.</i> </p>\n\nThe view made it worth the rainy trip.I recommend it to anyone who wants to get in touch with nature. [Tatopani Resort](https://www.facebook.com/BhurjungKholaTatopani/)\n\n![](./20180430_091658.jpg)\n\n<p align=\"center\" style=\"text-style:'italic\"> <i>Made a new friend </i>😍 </p>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "64dd3e2277350ed328160a9b29c67cd2",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Retreat To Tatopani",
-        "subTitle": "Finding Motivation",
-        "category": "life",
-        "cover": "tatos.jpg",
-        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file",
-        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/index.md",
-      "fields": {
-        "slug": "/retreat-to-tatopani/",
-        "prefix": "2018-05-05"
-      }
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg absPath of file": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg absPath of file",
-      "children": [
-        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "21551bfcd308cc95aa848ae95d9a9cfd",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg",
-      "relativePath": "2018-05-05--retreat-to-tatopani/20180430_091658.jpg",
-      "extension": "jpg",
-      "size": 701414,
-      "prettySize": "701 kB",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:40:11.584Z",
-      "changeTime": "2018-08-28T10:40:11.588Z",
-      "birthTime": "2018-08-28T10:40:11.588Z",
-      "root": "/",
-      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani",
-      "base": "20180430_091658.jpg",
-      "ext": ".jpg",
-      "name": "20180430_091658",
-      "relativeDirectory": "2018-05-05--retreat-to-tatopani",
-      "dev": 2054,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 1582650,
-      "blocks": 1376,
-      "atimeMs": 1535452811584.307,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811588.3071,
-      "birthtimeMs": 1535452811588.3071,
-      "atime": "2018-08-28T10:40:11.584Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.588Z",
-      "birthtime": "2018-08-28T10:40:11.588Z"
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg absPath of file >> ImageSharp": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/20180430_091658.jpg absPath of file",
-      "internal": {
-        "contentDigest": "21551bfcd308cc95aa848ae95d9a9cfd",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file",
-      "children": [
-        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "d04332b8d74056d3b13b96a9a21715b4",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg",
-      "relativePath": "2018-05-05--retreat-to-tatopani/tatos.jpg",
-      "extension": "jpg",
-      "size": 1039091,
-      "prettySize": "1.04 MB",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:40:11.588Z",
-      "changeTime": "2018-08-28T10:40:11.588Z",
-      "birthTime": "2018-08-28T10:40:11.588Z",
-      "root": "/",
-      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani",
-      "base": "tatos.jpg",
-      "ext": ".jpg",
-      "name": "tatos",
-      "relativeDirectory": "2018-05-05--retreat-to-tatopani",
-      "dev": 2054,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 1582652,
-      "blocks": 2032,
-      "atimeMs": 1535452811588.307,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811588.3071,
-      "birthtimeMs": 1535452811588.3071,
-      "atime": "2018-08-28T10:40:11.588Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.588Z",
-      "birthtime": "2018-08-28T10:40:11.588Z"
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file >> ImageSharp": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-05-05--retreat-to-tatopani/tatos.jpg absPath of file",
-      "internal": {
-        "contentDigest": "d04332b8d74056d3b13b96a9a21715b4",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
+      "atimeMs": 1535652568274.563,
+      "mtimeMs": 1535652568270.563,
+      "ctimeMs": 1535652568270.563,
+      "birthtimeMs": 1535652568270.563,
+      "atime": "2018-08-30T18:09:28.275Z",
+      "mtime": "2018-08-30T18:09:28.271Z",
+      "ctime": "2018-08-30T18:09:28.271Z",
+      "birthtime": "2018-08-30T18:09:28.271Z"
     },
     "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/ absPath of file": {
       "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/ absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c5ef2c80f745de250b4ee51d247a1edc",
+        "contentDigest": "50ea2dd272547c0babb2d8d2c67bb905",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2420,7 +2190,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:41:34.333Z",
+      "accessTime": "2018-08-30T11:33:09.844Z",
       "changeTime": "2018-08-28T10:40:11.584Z",
       "birthTime": "2018-08-28T10:40:11.584Z",
       "root": "/",
@@ -2438,11 +2208,11 @@
       "blksize": 4096,
       "ino": 1671814,
       "blocks": 8,
-      "atimeMs": 1535452894333.2417,
+      "atimeMs": 1535628789843.8794,
       "mtimeMs": 1529987619000,
       "ctimeMs": 1535452811584.3071,
       "birthtimeMs": 1535452811584.3071,
-      "atime": "2018-08-28T10:41:34.333Z",
+      "atime": "2018-08-30T11:33:09.844Z",
       "mtime": "2018-06-26T04:33:39.000Z",
       "ctime": "2018-08-28T10:40:11.584Z",
       "birthtime": "2018-08-28T10:40:11.584Z"
@@ -2452,7 +2222,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3261aa68b77dd9680a571a87c265b742",
+        "contentDigest": "3e4b410ba62f51045f00c901f407a83f",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2463,7 +2233,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:41:34.377Z",
+      "accessTime": "2018-08-30T11:33:09.876Z",
       "changeTime": "2018-08-28T10:40:11.576Z",
       "birthTime": "2018-08-28T10:40:11.576Z",
       "root": "/",
@@ -2481,11 +2251,11 @@
       "blksize": 4096,
       "ino": 1671815,
       "blocks": 8,
-      "atimeMs": 1535452894377.2422,
+      "atimeMs": 1535628789875.8787,
       "mtimeMs": 1529987619000,
       "ctimeMs": 1535452811576.307,
       "birthtimeMs": 1535452811576.307,
-      "atime": "2018-08-28T10:41:34.377Z",
+      "atime": "2018-08-30T11:33:09.876Z",
       "mtime": "2018-06-26T04:33:39.000Z",
       "ctime": "2018-08-28T10:40:11.576Z",
       "birthtime": "2018-08-28T10:40:11.576Z"
@@ -2495,7 +2265,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b4e89ff877055d9f4c7c86ab27e76dbc",
+        "contentDigest": "19611a526b9a3e60e7738e120eca97a2",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2506,7 +2276,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-08-28T11:16:20.925Z",
-      "accessTime": "2018-08-28T11:16:20.929Z",
+      "accessTime": "2018-08-30T11:33:09.876Z",
       "changeTime": "2018-08-28T11:16:20.925Z",
       "birthTime": "2018-08-28T11:16:20.925Z",
       "root": "/",
@@ -2524,11 +2294,11 @@
       "blksize": 4096,
       "ino": 1671816,
       "blocks": 8,
-      "atimeMs": 1535454980929.3855,
+      "atimeMs": 1535628789875.8787,
       "mtimeMs": 1535454980925.3855,
       "ctimeMs": 1535454980925.3855,
       "birthtimeMs": 1535454980925.3855,
-      "atime": "2018-08-28T11:16:20.929Z",
+      "atime": "2018-08-30T11:33:09.876Z",
       "mtime": "2018-08-28T11:16:20.925Z",
       "ctime": "2018-08-28T11:16:20.925Z",
       "birthtime": "2018-08-28T11:16:20.925Z"
@@ -2538,7 +2308,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c3009f08d311b986edd15de0c5bf36af",
+        "contentDigest": "e6ab997ec6c058addd038d8f326d076e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2549,7 +2319,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:41:34.377Z",
+      "accessTime": "2018-08-30T11:33:09.876Z",
       "changeTime": "2018-08-28T10:40:11.584Z",
       "birthTime": "2018-08-28T10:40:11.584Z",
       "root": "/",
@@ -2567,11 +2337,11 @@
       "blksize": 4096,
       "ino": 1671817,
       "blocks": 8,
-      "atimeMs": 1535452894377.2422,
+      "atimeMs": 1535628789875.8787,
       "mtimeMs": 1529987619000,
       "ctimeMs": 1535452811584.3071,
       "birthtimeMs": 1535452811584.3071,
-      "atime": "2018-08-28T10:41:34.377Z",
+      "atime": "2018-08-30T11:33:09.876Z",
       "mtime": "2018-06-26T04:33:39.000Z",
       "ctime": "2018-08-28T10:40:11.584Z",
       "birthtime": "2018-08-28T10:40:11.584Z"
@@ -2745,7 +2515,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a2b41892f63def3314149af93cad0c16",
+        "contentDigest": "80fd45bbb680b8c15ee47b6478d77476",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2756,7 +2526,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:41:34.333Z",
+      "accessTime": "2018-08-30T11:33:09.844Z",
       "changeTime": "2018-08-28T10:40:11.584Z",
       "birthTime": "2018-08-28T10:40:11.584Z",
       "root": "/",
@@ -2774,11 +2544,11 @@
       "blksize": 4096,
       "ino": 1671818,
       "blocks": 8,
-      "atimeMs": 1535452894333.2417,
+      "atimeMs": 1535628789843.8794,
       "mtimeMs": 1529987619000,
       "ctimeMs": 1535452811584.3071,
       "birthtimeMs": 1535452811584.3071,
-      "atime": "2018-08-28T10:41:34.333Z",
+      "atime": "2018-08-30T11:33:09.844Z",
       "mtime": "2018-06-26T04:33:39.000Z",
       "ctime": "2018-08-28T10:40:11.584Z",
       "birthtime": "2018-08-28T10:40:11.584Z"
@@ -2790,7 +2560,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ce0e2c5798529f714d1cc56bf038d595",
+        "contentDigest": "a0f3b844235a36242561ba8b7cdf5c5d",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2799,12 +2569,12 @@
       "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md",
       "relativePath": "author.md",
       "extension": "md",
-      "size": 197,
-      "prettySize": "197 B",
-      "modifiedTime": "2018-08-28T11:14:30.945Z",
-      "accessTime": "2018-08-28T10:48:45.170Z",
-      "changeTime": "2018-08-28T11:14:30.945Z",
-      "birthTime": "2018-08-28T11:14:30.945Z",
+      "size": 110,
+      "prettySize": "110 B",
+      "modifiedTime": "2018-08-30T18:13:46.217Z",
+      "accessTime": "2018-08-30T18:01:05.016Z",
+      "changeTime": "2018-08-30T18:13:46.217Z",
+      "birthTime": "2018-08-30T18:13:46.217Z",
       "root": "/",
       "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts",
       "base": "author.md",
@@ -2820,14 +2590,14 @@
       "blksize": 4096,
       "ino": 1582647,
       "blocks": 8,
-      "atimeMs": 1535453325169.6914,
-      "mtimeMs": 1535454870945.1082,
-      "ctimeMs": 1535454870945.1082,
-      "birthtimeMs": 1535454870945.1082,
-      "atime": "2018-08-28T10:48:45.170Z",
-      "mtime": "2018-08-28T11:14:30.945Z",
-      "ctime": "2018-08-28T11:14:30.945Z",
-      "birthtime": "2018-08-28T11:14:30.945Z"
+      "atimeMs": 1535652065015.5093,
+      "mtimeMs": 1535652826216.818,
+      "ctimeMs": 1535652826216.818,
+      "birthtimeMs": 1535652826216.818,
+      "atime": "2018-08-30T18:01:05.016Z",
+      "mtime": "2018-08-30T18:13:46.217Z",
+      "ctime": "2018-08-30T18:13:46.217Z",
+      "birthtime": "2018-08-30T18:13:46.217Z"
     },
     "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file": {
       "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file",
@@ -2882,7 +2652,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "877873b176c7b2c8ead10828704e78a1",
+        "contentDigest": "d41d8cd98f00b204e9800998ecf8427e",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2891,12 +2661,12 @@
       "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md",
       "relativePath": "info.md",
       "extension": "md",
-      "size": 175,
-      "prettySize": "175 B",
-      "modifiedTime": "2018-06-26T04:33:39.000Z",
-      "accessTime": "2018-08-28T10:40:11.584Z",
-      "changeTime": "2018-08-28T10:40:11.584Z",
-      "birthTime": "2018-08-28T10:40:11.584Z",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-08-30T18:16:20.779Z",
+      "accessTime": "2018-08-30T18:16:15.187Z",
+      "changeTime": "2018-08-30T18:16:20.779Z",
+      "birthTime": "2018-08-30T18:16:20.779Z",
       "root": "/",
       "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts",
       "base": "info.md",
@@ -2911,41 +2681,15 @@
       "rdev": 0,
       "blksize": 4096,
       "ino": 1582649,
-      "blocks": 8,
-      "atimeMs": 1535452811584.307,
-      "mtimeMs": 1529987619000,
-      "ctimeMs": 1535452811584.3071,
-      "birthtimeMs": 1535452811584.3071,
-      "atime": "2018-08-28T10:40:11.584Z",
-      "mtime": "2018-06-26T04:33:39.000Z",
-      "ctime": "2018-08-28T10:40:11.584Z",
-      "birthtime": "2018-08-28T10:40:11.584Z"
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: info\n---\n\nExperienced fullstack developer with a strong appreciation for good UX and love to face challenges specially offered from new technology and environment.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "9e6cc75b91f868b64af07c2e66296360",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "info",
-        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file",
-        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md",
-      "fields": {
-        "slug": "/info/",
-        "prefix": ""
-      }
+      "blocks": 0,
+      "atimeMs": 1535652975186.9976,
+      "mtimeMs": 1535652980778.9453,
+      "ctimeMs": 1535652980778.9453,
+      "birthtimeMs": 1535652980778.9453,
+      "atime": "2018-08-30T18:16:15.187Z",
+      "mtime": "2018-08-30T18:16:20.779Z",
+      "ctime": "2018-08-30T18:16:20.779Z",
+      "birthtime": "2018-08-30T18:16:20.779Z"
     },
     "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file >>> MarkdownRemark": {
       "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md absPath of file >>> MarkdownRemark",
@@ -2970,32 +2714,6 @@
       "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/footnote.md",
       "fields": {
         "slug": "/footnote/",
-        "prefix": ""
-      }
-    },
-    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark": {
-      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: author\n---\n\n**Mr. Sworup** is a experienced fullstack developer with a strong appreciation for good UX and love to face challenges specially offered from new technology and environment.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "8f6f0bfd956d91dcb5a7f56b2e259891",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "author",
-        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file",
-        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md",
-      "fields": {
-        "slug": "/author/",
         "prefix": ""
       }
     },
@@ -3052,26 +2770,260 @@
         "prefix": "1"
       }
     },
-    "SitePage /retreat-to-tatopani/": {
-      "layout": "index",
-      "jsonName": "retreat-to-tatopani.json",
-      "internalComponentName": "ComponentRetreatToTatopani",
-      "path": "/retreat-to-tatopani/",
-      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PostTemplate.js",
-      "componentChunkName": "component---src-templates-post-template-js",
-      "context": {
-        "slug": "/retreat-to-tatopani/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PostTemplate.js",
-      "id": "SitePage /retreat-to-tatopani/",
-      "parent": "SOURCE",
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks absPath of file",
       "children": [],
+      "parent": "___SOURCE___",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "7b3acbfd06b24297893eb9734ecace55",
-        "owner": "internal-data-bridge"
+        "contentDigest": "cee1371ce27f31df7ec0934341cf2d72",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks",
+      "relativePath": "2018-08-30--giving-fewer-fucks",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-08-30T18:10:52.636Z",
+      "accessTime": "2018-08-30T18:10:52.640Z",
+      "changeTime": "2018-08-30T18:10:52.636Z",
+      "birthTime": "2018-08-30T18:10:52.636Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts",
+      "base": "2018-08-30--giving-fewer-fucks",
+      "ext": "",
+      "name": "2018-08-30--giving-fewer-fucks",
+      "relativeDirectory": "",
+      "dev": 2054,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1826843,
+      "blocks": 8,
+      "atimeMs": 1535652652640.2415,
+      "mtimeMs": 1535652652636.2415,
+      "ctimeMs": 1535652652636.2415,
+      "birthtimeMs": 1535652652636.2415,
+      "atime": "2018-08-30T18:10:52.640Z",
+      "mtime": "2018-08-30T18:10:52.636Z",
+      "ctime": "2018-08-30T18:10:52.636Z",
+      "birthtime": "2018-08-30T18:10:52.636Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/index.md absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/index.md absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d8cc0933202aebc00de1d64840a4a155",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/index.md",
+      "relativePath": "2018-08-30--giving-fewer-fucks/index.md",
+      "extension": "md",
+      "size": 3620,
+      "prettySize": "3.62 kB",
+      "modifiedTime": "2018-08-30T18:11:37.411Z",
+      "accessTime": "2018-08-30T18:11:37.399Z",
+      "changeTime": "2018-08-30T18:11:37.411Z",
+      "birthTime": "2018-08-30T18:11:37.411Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2018-08-30--giving-fewer-fucks",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1721866,
+      "blocks": 8,
+      "atimeMs": 1535652697399.199,
+      "mtimeMs": 1535652697411.1987,
+      "ctimeMs": 1535652697411.1987,
+      "birthtimeMs": 1535652697411.1987,
+      "atime": "2018-08-30T18:11:37.399Z",
+      "mtime": "2018-08-30T18:11:37.411Z",
+      "ctime": "2018-08-30T18:11:37.411Z",
+      "birthtime": "2018-08-30T18:11:37.411Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/fuck.jpg absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/fuck.jpg absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/fuck.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d54165f6805ca6d3349c9ebf22148f03",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/fuck.jpg",
+      "relativePath": "2018-08-30--giving-fewer-fucks/fuck.jpg",
+      "extension": "jpg",
+      "size": 1301306,
+      "prettySize": "1.3 MB",
+      "modifiedTime": "2018-08-30T18:05:56.367Z",
+      "accessTime": "2018-08-30T18:06:11.850Z",
+      "changeTime": "2018-08-30T18:06:16.526Z",
+      "birthTime": "2018-08-30T18:06:16.526Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks",
+      "base": "fuck.jpg",
+      "ext": ".jpg",
+      "name": "fuck",
+      "relativeDirectory": "2018-08-30--giving-fewer-fucks",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1727051,
+      "blocks": 2552,
+      "atimeMs": 1535652371850.2126,
+      "mtimeMs": 1535652356366.977,
+      "ctimeMs": 1535652376525.987,
+      "birthtimeMs": 1535652376525.987,
+      "atime": "2018-08-30T18:06:11.850Z",
+      "mtime": "2018-08-30T18:05:56.367Z",
+      "ctime": "2018-08-30T18:06:16.526Z",
+      "birthtime": "2018-08-30T18:06:16.526Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/fuck.jpg absPath of file >> ImageSharp": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/fuck.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/fuck.jpg absPath of file",
+      "internal": {
+        "contentDigest": "d54165f6805ca6d3349c9ebf22148f03",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/prof.jpg absPath of file": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/prof.jpg absPath of file",
+      "children": [
+        "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/prof.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "deb1a694f5a9ccad961bd47d900e5208",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/prof.jpg",
+      "relativePath": "2018-08-30--giving-fewer-fucks/prof.jpg",
+      "extension": "jpg",
+      "size": 6995862,
+      "prettySize": "7 MB",
+      "modifiedTime": "2018-08-30T18:10:24.073Z",
+      "accessTime": "2018-08-30T18:10:46.408Z",
+      "changeTime": "2018-08-30T18:10:52.636Z",
+      "birthTime": "2018-08-30T18:10:52.636Z",
+      "root": "/",
+      "dir": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks",
+      "base": "prof.jpg",
+      "ext": ".jpg",
+      "name": "prof",
+      "relativeDirectory": "2018-08-30--giving-fewer-fucks",
+      "dev": 2054,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 1820862,
+      "blocks": 13672,
+      "atimeMs": 1535652646408.3965,
+      "mtimeMs": 1535652624072.972,
+      "ctimeMs": 1535652652636.2415,
+      "birthtimeMs": 1535652652636.2415,
+      "atime": "2018-08-30T18:10:46.408Z",
+      "mtime": "2018-08-30T18:10:24.073Z",
+      "ctime": "2018-08-30T18:10:52.636Z",
+      "birthtime": "2018-08-30T18:10:52.636Z"
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/prof.jpg absPath of file >> ImageSharp": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/prof.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/prof.jpg absPath of file",
+      "internal": {
+        "contentDigest": "deb1a694f5a9ccad961bd47d900e5208",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Giving Fewer F*cks\nsubTitle: Art Of Not Giving A Fuck\ncategory: \"book\"\ncover: fuck.jpg\n---\n\nThe past few months have been hectic for me, with all the Assignments, Field studies, Presentations and Exams from my University, I've been struggling to be efficient and haven't been able to get things done. I've been procrastinating a lot.\n\n**So? Is this going to be about me whining and complaining about life ?**\nKinda yes ,yeah, **NO!** ,not really, In these recent unproductive and stress fueled time i have somehow managed to finish this amazing book recommended to me by my brother. Not having anything else to do (Besides playing Fortnite and Dota 2 ) I decided why not give \"Book Reading\" a shot and this Review is what I've come up with. As pretentious and corny the lines may sound I hope you'll stick till the end where i mention \"something special\".\n\n## THE SUBTLE ART OF NOT GIVING A F\\*CK\n\nAs eye catching the title of the book is, indulging are the concepts and chapters of this book. This book really is quite something as I got hooked as soon as I started reading it. Basically what Mark Manson (Author) states in the book is:\n\n* F\\*ck positivity - Let’s be honest; sometimes things are fucked up and we have to live with it.\n* Stop trying to be Extraordinary- there are winners and losers in society, and some if it is not fair or your fault.\n* Stop seeking happiness - The path to happiness is a path full of shit heaps and shame.\n\nAs bizarre and abstract the ideas in the books were, I personally enjoyed them and found them to be relatable. Mark introduces us with this concept of \"Not Trying Too Hard In Life\". This way Mark explores Human Problems, Sufferings and Failures and emphasizes on what is really worth in our lives and it makes us think about what we've been valuing in our lives.\n\n**“The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience.”**\n\nReading this book was an experience, I'm exploring the concepts of this book in my life slowly, the fact that I've been only seeking out for good vibes and easy highs through out my life while ignoring my problems has really stuck a cord in me. This book has helped me accept this realization and encourages me to face my problems, it challenges me to seek and create more probabilities and problems and even if i fail, I''ll have to embrace it and deal with it instead of making excuses about it .\nAs I'm learning to give fewer f\\*cks, I'm starting to look out for things that truly matter in my life. I've also come to a realization that what we struggle for is what we will succeed in, and as I'm writing this post I still doubt myself for what I am struggling for. I've learnt to question my values and give up on my bad values for genuine and healthy values.I feel encouraged by this book to take responsibility for my response under any circumstances and. I If you're still genuinely reading this post here is the \"something special\" i was going to mention(Yeah I know lame).\n\nThis book has been a lot to take in but this is one of the best experiences I've had in quite a while. I've decided on reading more books and getting myself out there. I'll probably circle back to it a few more times in the future.I highly recommend this book to anyone looking for some good Self-Help books 10/10.\n\n![](./prof.jpg)\n\n<p align=\"center\" style=\"text-style:'italic\"> <i>\n\n**“Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.”** -_Disappointment Panda_\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "32d770e7b8c7e5d8f60677dc03b4fb8d",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Giving Fewer F*cks",
+        "subTitle": "Art Of Not Giving A Fuck",
+        "category": "book",
+        "cover": "fuck.jpg",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/index.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/index.md",
+      "fields": {
+        "slug": "/giving-fewer-fucks/",
+        "prefix": "2018-08-30"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: author\n---\n\n**Mr. Sworup** is a Public Health student,Travel enthusiast and Amature photographer!!\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "3c2a44926ec5d98705ac93bbefb03fdb",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "author",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md",
+      "fields": {
+        "slug": "/author/",
+        "prefix": ""
       }
     },
     "SitePage /success/": {
@@ -3092,7 +3044,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c1ee250b390516572f2c5e52715ba2db",
+        "contentDigest": "3140a3c198df306606f44366c563e74f",
         "owner": "internal-data-bridge"
       }
     },
@@ -3114,7 +3066,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7cdc5d4f53f2b42e28872fc993e5431c",
+        "contentDigest": "70567aa7040e25e9d4e8f9bd75137dc1",
         "owner": "internal-data-bridge"
       }
     },
@@ -3136,7 +3088,29 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d4dec7f84da23cddafcc02fbde8dd169",
+        "contentDigest": "0462e70f14f2df85528b7016c88b1dc3",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /giving-fewer-fucks/": {
+      "layout": "index",
+      "jsonName": "giving-fewer-fucks.json",
+      "internalComponentName": "ComponentGivingFewerFucks",
+      "path": "/giving-fewer-fucks/",
+      "component": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PostTemplate.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/giving-fewer-fucks/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/vayu-suyog/WorkSpace/blog/soupblog/src/templates/PostTemplate.js",
+      "id": "SitePage /giving-fewer-fucks/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f83a4c9d9f40cb2e3c37c989776dd518",
         "owner": "internal-data-bridge"
       }
     },
@@ -3156,7 +3130,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2b82d6666a5946af28bd48804386ac3e",
+        "contentDigest": "90874620ce6e4840222b5f87a4d14bfc",
         "owner": "internal-data-bridge"
       }
     },
@@ -3176,7 +3150,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b5b7e6298890b8ebf2c96f49f3970c11",
+        "contentDigest": "853bbe0677f328329e1a6700a62d69f4",
         "owner": "internal-data-bridge"
       }
     },
@@ -3196,8 +3170,34 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "be385c40720d479a6e9a7b920633e1ab",
+        "contentDigest": "10a053fa481d47b8d6dc1c66e1adcd89",
         "owner": "internal-data-bridge"
+      }
+    },
+    "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: info\n---\n\nI am a Public Health student,Travel enthusiast and Amature photographer!!\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "b5fc9c53c4d57fcb71962a7c53f36296",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "info",
+        "_PARENT": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file",
+        "parent": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/info.md",
+      "fields": {
+        "slug": "/info/",
+        "prefix": ""
       }
     }
   },
@@ -3211,10 +3211,12 @@
         "/starters/",
         "/about/",
         "/retreat-to-tatopani/",
-        "/success/"
+        "/success/",
+        "/giving-fewer-fucks/"
       ],
       "/home/vayu-suyog/WorkSpace/blog/soupblog/content/parts/author.md absPath of file >>> MarkdownRemark": [
-        "/retreat-to-tatopani/"
+        "/retreat-to-tatopani/",
+        "/giving-fewer-fucks/"
       ],
       "Site": [
         "/starters/",
@@ -3222,7 +3224,8 @@
         "/retreat-to-tatopani/",
         "/success/",
         "/",
-        "/search/"
+        "/search/",
+        "/giving-fewer-fucks/"
       ],
       "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark": [
         "/starters/"
@@ -3245,6 +3248,19 @@
       ],
       "/home/vayu-suyog/WorkSpace/blog/soupblog/content/pages/success/index.md absPath of file >>> MarkdownRemark": [
         "/success/"
+      ],
+      "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/fuck.jpg absPath of file": [
+        null,
+        "/giving-fewer-fucks/",
+        null
+      ],
+      "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/fuck.jpg absPath of file >> ImageSharp": [
+        null,
+        "/giving-fewer-fucks/",
+        null
+      ],
+      "/home/vayu-suyog/WorkSpace/blog/soupblog/content/posts/2018-08-30--giving-fewer-fucks/index.md absPath of file >>> MarkdownRemark": [
+        "/giving-fewer-fucks/"
       ]
     },
     "connections": {

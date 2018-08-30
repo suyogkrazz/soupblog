@@ -23,7 +23,7 @@ module.exports = {
   manifestDisplay: "standalone",
   // social
   authorSocialLinks: [
-    { name: "github", url: "http://github.com/suyogkrazz" },
+    { name: "twitter", url: "https://twitter.com/sworupkc" },
     { name: "instagram", url: "https://www.instagram.com/sworup.kc/" },
     { name: "facebook", url: "https://www.facebook.com/sworupkc0" }
   ]

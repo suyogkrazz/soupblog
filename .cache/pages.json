@@ -1,12 +1,5 @@
 [
     {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "retreat-to-tatopani.json",
-        "path": "/retreat-to-tatopani/"
-    },
-    {
         "componentChunkName": "component---src-templates-page-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -26,6 +19,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "about.json",
         "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "giving-fewer-fucks.json",
+        "path": "/giving-fewer-fucks/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",
