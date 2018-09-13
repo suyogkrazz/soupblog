@@ -1,5 +1,12 @@
 [
     {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "giving-fewer-fucks.json",
+        "path": "/giving-fewer-fucks/"
+    },
+    {
         "componentChunkName": "component---src-templates-page-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -10,22 +17,22 @@
         "componentChunkName": "component---src-templates-page-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "starters.json",
-        "path": "/starters/"
+        "jsonName": "about.json",
+        "path": "/about/"
     },
     {
         "componentChunkName": "component---src-templates-page-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "about.json",
-        "path": "/about/"
+        "jsonName": "starters.json",
+        "path": "/starters/"
     },
     {
         "componentChunkName": "component---src-templates-post-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "giving-fewer-fucks.json",
-        "path": "/giving-fewer-fucks/"
+        "jsonName": "kiss-my-ass.json",
+        "path": "/kiss-my-ass/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",

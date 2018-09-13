@@ -1,14 +1,14 @@
 var plugins = [{
-      plugin: require('/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
+      plugin: require('C:/Users/user/Workspace/soupblog/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
+      plugin: require('C:/Users/user/Workspace/soupblog/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/vayu-suyog/WorkSpace/blog/soupblog/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
+      plugin: require('C:/Users/user/Workspace/soupblog/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
       options: {"plugins":[],"trackingId":"..."},
     },{
-      plugin: require('/home/vayu-suyog/WorkSpace/blog/soupblog/gatsby-browser.js'),
+      plugin: require('C:/Users/user/Workspace/soupblog/gatsby-browser.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks
